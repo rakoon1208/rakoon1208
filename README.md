@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Randina (most people just call me Randi)
 - 👀 I’m interested in Systems Engineering
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning Rust and Typescript
 - 📫 Reach me at: randinaamarakoon@gmail.com
 
 
