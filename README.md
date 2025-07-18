@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Randina (most people just call me Randi)
-- 👀 I’m interested in Systems Engineering
+- 👀 I’m interested in Systems Engineering and Embedded Systems
 - 🌱 I’m currently learning Rust and Typescript
 - 📫 Reach me at: randinaamarakoon@gmail.com
 
